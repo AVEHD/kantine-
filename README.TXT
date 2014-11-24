@@ -1,17 +1,7 @@
-Project: book-exercise
-Authors: To be set.
+Project: Kantine ->Leertaak voor Tutoriaal;
+Authors: Adriaan van Elk, Tsjeard DW
 
-This project is part of the material for the book
+This project is part of a college assignment and should not be used. 
 
-   Objects First with Java - A Practical Introduction using BlueJ
-   Fifth edition
-   David J. Barnes and Michael Kölling
-   Pearson Education, 2012
+Dit project is onderdeel van een HBO opdracht en moet niet gebruikt worden. 
 
-It is discussed in chapter 2.
-
-Purpose of project: This project forms the basis of a set of exercises
-                    that can be found in Chapter 2.
-How to start this project: Create one or more Book instances.
-
-USER INSTRUCTIONS: Complete the exercises in Chapter 2.
