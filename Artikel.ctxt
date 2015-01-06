@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=artikelNaam\ artikelPrijs
+comment0.target=Artikel(java.lang.String,\ double)
+comment0.text=\r\n\ Een\ nieuw\ artikel\ maken.\r\n
+comment1.params=
+comment1.target=Artikel()
+comment1.text=\r\n\ De\ parameterloze\ constructor.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getArtikelNaam()
+comment2.text=\r\n\ De\ artikelnaam\ achterhalen.\r\n
+comment3.params=nieuweNaam
+comment3.target=void\ setNaam(java.lang.String)
+comment3.text=\r\n\ De\ artikelnaam\ wijzigen.\r\n
+comment4.params=
+comment4.target=double\ getArtikelPrijs()
+comment4.text=\r\n\ De\ artikelprijs\ achterhalen.\r\n
+comment5.params=nieuwePrijs
+comment5.target=void\ setPrijs(double)
+comment5.text=\r\n\ De\ artikelprijs\ wijzigen.\r\n
+comment6.params=
+comment6.target=void\ drukAf()
+comment6.text=\r\n\ De\ gegevens\ van\ de\ klasse\ Artikel\ afdrukken.\r\n
+numComments=7

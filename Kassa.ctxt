@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ aantalArtikelen()
+comment0.text=\r\n\ Geeft\ het\ aantal\ artikelen\ dat\ de\ kassa\r\n\ heeft\ gepasseerd,\r\n\ vanaf\ het\ moment\ dat\ de\ methode\ resetWaarden\r\n\ is\ aangeroepen.\r\n\ @return\ aantal\ artikelen\r\n
+comment1.params=
+comment1.target=double\ hoeveelheidGeldInKassa()
+comment1.text=\r\n\ Geeft\ het\ totaalbedrag\ van\ alle\ artikelen\ die\r\n\ de\ kassa\ zijn\ gepasseerd,\ vanaf\ het\ moment\ dat\ de\ methode\r\nresetKassa\r\n\ is\ aangeroepen.\r\n\ @return\ hoeveelheid\ geld\ in\ de\ kassa\r\n
+comment2.params=
+comment2.target=void\ resetKassa()
+comment2.text=\r\n\ reset\ de\ waarden\ van\ het\ aantal\ gepasseerde\ artikelen\ en\r\n\ de\ totale\ hoeveelheid\ geld\ in\ de\ kassa.\r\n
+numComments=3
